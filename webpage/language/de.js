@@ -146,6 +146,8 @@ let TRANSLATION_DE_DE = {
 			"de-13-13": "🇩🇪 13 × 13",
 			"de-22-11-weather": "🇩🇪 22 × 11 Wetter",
 			"de-16-8": "🇩🇪 16 × 8",
+			"de-16-8-vert-corner": "🇩🇪 16 × 8 Vertikal Eck Punkte",
+			"de-16-8-vert-num": "🇩🇪 16 × 8 Vertikal Nummern",
 			"de-16-18": "🇩🇪 16 × 18",
 			"de-08-08": "🇩🇪 8 × 8",
 			"de-08-08-viertel": "🇩🇪 8 × 8 Viertelstunden",

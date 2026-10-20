@@ -188,15 +188,21 @@ public:
             break;
 
         case FrontWord::m_num2:
-            setFrontMatrixWord(0, 0, 0);
+            setFrontMatrixWord(0, 15, 15);
+            setFrontMatrixWord(7, 15, 15);
             break;
 
         case FrontWord::m_num3:
+            setFrontMatrixWord(0, 15, 15);
+            setFrontMatrixWord(7, 15, 15);
             setFrontMatrixWord(7, 0, 0);
             break;
 
         case FrontWord::m_num4:
+            setFrontMatrixWord(0, 15, 15);
             setFrontMatrixWord(7, 15, 15);
+            setFrontMatrixWord(7, 0, 0);
+            setFrontMatrixWord(0, 0, 0);
             break;
 
         default:
